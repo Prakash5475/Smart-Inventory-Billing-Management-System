@@ -1,0 +1,1 @@
+package com.inventory.dto; import lombok.*; @Data @AllArgsConstructor public class JwtResponse { private String token, type="Bearer", username, role; }

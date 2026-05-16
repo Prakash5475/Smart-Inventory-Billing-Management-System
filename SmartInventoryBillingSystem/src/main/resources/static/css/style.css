@@ -1,0 +1,5 @@
+body { font-family: sans-serif; background-color: #f8f9fa; }
+.card { border-radius: 10px; border: none; }
+.navbar-brand { font-weight: bold; }
+.table thead { background-color: #343a40; color: white; }
+canvas { max-height: 300px; }
